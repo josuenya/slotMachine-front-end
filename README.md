@@ -1,4 +1,4 @@
-# essilor-front-end
+# slot machine
 
 ## Build Setup
 

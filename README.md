@@ -1,4 +1,4 @@
-# slot machine
+# slot machine front-end
 
 ## Build Setup
 
